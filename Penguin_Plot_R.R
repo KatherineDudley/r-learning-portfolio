@@ -103,3 +103,4 @@ The downloaded source packages are in
     +     ) +
   +     scale_color_colorblind()
 `geom_smooth()` using formula = 'y ~ x'
+my_plot+labs(x="Flipper Length (mm)", y="Bill Depth (mm)", title = "Flipper Length vs. Bill Depth for Palmer Penguins", subtitle = "Analysis of Palmer Penguins", caption = "Data comes from palmerpenguins package")
